@@ -11,8 +11,8 @@
 
 - [MaterialDrawer](#MaterialDrawer)★10410 - 安卓抽屉效果实现方案:four_leaf_clover: 
 - [BoomMenu](#BoomMenu) ★5369 - 具有炸裂效果的菜单按钮 :four_leaf_clover: 
-- [AwesomeMenu](#AwesomeMenu)★5135 - 与Path的故事菜单具有相同外观的菜单 :four_leaf_clover: 
-- [Side-Menu-Android](#Side-Menu-Android)★4889 - 创意边侧菜单 :four_leaf_clover: 
+- [AwesomeMenu](https://github.com/levey/AwesomeMenu)★5135 - 与Path的故事菜单具有相同外观的菜单 :four_leaf_clover: 
+- [Side-Menu-Android](https://github.com/Yalantis/Side-Menu.Android)★4889 - 创意边侧菜单 :four_leaf_clover: 
 - [Context-Menu-Android](#Context-Menu-Android)★3549 - 独特的动画内容菜单 :four_leaf_clover: 
 - [DropDownMenu](#DropDownMenu)★3280 - 一个实用的多条件筛选菜单  :four_leaf_clover: 
 - [SlidingRootNav](#SlidingRootNav)★2576 - 仿DrawerLayout的ViewGroup :four_leaf_clover: 
@@ -60,16 +60,6 @@
 <img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/show_ham.gif" width="200"><img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/show_list.gif" width="200">
 
 <img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/text-inside-button.gif" width="200"><img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/text-outside-button.gif" width="200">
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-
-## AwesomeMenu
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/levey/AwesomeMenu) 
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-
-## Side-Menu-Android
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/Yalantis/Side-Menu.Android) 
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
