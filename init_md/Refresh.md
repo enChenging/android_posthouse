@@ -11,7 +11,7 @@
 - [SmartRefreshLayout](#SmartRefreshLayout)★17707 - 下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer   :four_leaf_clover:
 - [android-Ultra-Pull-To-Refresh](#android-Ultra-Pull-To-Refresh) ★9619 - 下拉刷新项目的替代方案   :four_leaf_clover:
 - [BGARefreshLayout-Android](#BGARefreshLayout-Android)★3978 - 多种下拉刷新和上拉加载插件 :four_leaf_clover:
-- [Phoenix](#Phoenix) ★3959 - 可自定义滑动刷新实现 :four_leaf_clover: 
+- [Phoenix](https://github.com/Yalantis/Phoenix) ★3959 - 可自定义滑动刷新实现 :four_leaf_clover: 
 - [TwinklingRefreshLayout](#TwinklingRefreshLayout) ★3593 - 下拉刷新和上拉加载的RefreshLayout :four_leaf_clover:
 - [FlyRefresh](#FlyRefresh)★2917 - 最有特色的下拉刷新 :four_leaf_clover: 
 - [WaveSwipeRefreshLayout](#WaveSwipeRefreshLayout)★1847 - Android刷新控件 :four_leaf_clover: 
@@ -53,10 +53,6 @@
 <img src="https://cloud.githubusercontent.com/assets/8949716/17475814/6f900742-5d8f-11e6-832e-eaded3640154.gif" width="200"><img src="https://cloud.githubusercontent.com/assets/8949716/17475815/6fb4a0c0-5d8f-11e6-94c9-5eaed30c5060.gif" width="200">
 
 <img src="https://cloud.githubusercontent.com/assets/8949716/17475816/6fbb501e-5d8f-11e6-9dc5-fcb5b497247e.gif" width="200"><img src="https://cloud.githubusercontent.com/assets/8949716/17475817/6fe51674-5d8f-11e6-994b-b8248f164181.gif" width="200">
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-- [Phoenix](https://github.com/Yalantis/Phoenix)
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
