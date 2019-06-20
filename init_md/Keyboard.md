@@ -11,8 +11,8 @@
 - [JKeyboardPanelSwitch](#JKeyboardPanelSwitch)★3580 - 键盘面板冲突及布局闪动处理方案  :four_leaf_clover: 
 - [emojicon](#emojicon)★3501 - Android中实现emojis表情  :four_leaf_clover: 
 - [XhsEmoticonsKeyboard](#XhsEmoticonsKeyboard)★2682 - Android表情键盘支持表情符号和用户定义的表情符号 :four_leaf_clover: 
-- [KeyboardVisibilityEvent](#KeyboardVisibilityEvent)★1105 - 用于处理软件键盘可见性更改事件的Android库 :four_leaf_clover: 
-- [AnySoftKeyboard](#AnySoftKeyboard)★989 - 屏幕键盘，支持多种语言 :four_leaf_clover: 
+- [KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent)★1105 - 用于处理软件键盘可见性更改事件的Android库 :four_leaf_clover: 
+- [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)★989 - 屏幕键盘，支持多种语言 :four_leaf_clover: 
 - [WeChatPswKeyboard](#WeChatPswKeyboard)★983 高仿微信数字键盘、支付键盘（密码键盘）,同样可以拿来改成支付宝的支付键盘 :four_leaf_clover: 
 - [AndroidKeyboardWatcher](#AndroidKeyboardWatcher)★848 -监听android的软件键盘打开/关闭。 :four_leaf_clover: 
 - [hackerskeyboard](#hackerskeyboard)★723 一行代码实现Android软键盘和EditText各种交互 :four_leaf_clover: 
@@ -52,22 +52,13 @@
  <img src="https://github.com/w446108264/XhsEmoticonsKeyboard/blob/master/output/show.gif" width="200">
  
  <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-## KeyboardVisibilityEvent
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/yshrsmz/KeyboardVisibilityEvent) 
  
- <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
   
 ## WeChatPswKeyboard
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/zuiwuyuan/WeChatPswKeyboard) 
 >_效果图如下：_
 
 <img src="https://github.com/zuiwuyuan/WeChatPswKeyboard/blob/master/imgs/img.gif" width="200">
- 
- <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-## AnySoftKeyboard
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/AnySoftKeyboard/AnySoftKeyboard) 
  
  <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
   
