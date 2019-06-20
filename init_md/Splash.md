@@ -11,7 +11,7 @@
 
 - [AppIntro](#AppIntro)★8565 - 制作一个很酷的app介绍页  :four_leaf_clover: 
 - [ShowcaseView](#ShowcaseView)★5468 - 向用户突出app的特定部分  :four_leaf_clover: 
-- [AndroidPdfViewer](#AndroidPdfViewer)★4735 - Android中显示PDF文档的库 :four_leaf_clover: 
+- [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer)★4735 - Android中显示PDF文档的库 :four_leaf_clover: 
 - [TapTargetView](#TapTargetView)★4426 - 用户引导功能的实现 :four_leaf_clover: 
 - [GuideView](#GuideView) ★2899 - 创建遮罩式导航页  :four_leaf_clover: 
 - [Highlight](#Highlight) ★2820 - app指向性功能高亮的库 :four_leaf_clover: 
@@ -47,11 +47,6 @@
 >_效果图如下：_
 
 <img src="https://github.com/amlcurran/ShowcaseView/blob/master/example.png" width="200"><img src="https://github.com/amlcurran/ShowcaseView/blob/master/example2.png" width="200"><img src="https://github.com/amlcurran/ShowcaseView/blob/master/material.png" width="200">
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-
-## AndroidPdfViewer
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/barteksc/AndroidPdfViewer) 
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
  
