@@ -36,10 +36,10 @@
 - [AsymmetricGridView](#AsymmetricGridView)★1656 - Android自定义列表视图 :four_leaf_clover: 
 - [drag-select-recyclerview](#drag-select-recyclerview) ★1558 - 实现GooglePhoto样式多选择 :four_leaf_clover: 
 - [SwipeStack](#SwipeStack) ★1425 - 安卓纸质视图栈 :four_leaf_clover: 
-- [binding-collection-adapter](#binding-collection-adapter) ★1238 - 轻松的使用Android Data Binding框架将数据绑定到listviews或recyclerviews :four_leaf_clover: 
+- [binding-collection-adapter](https://github.com/evant/binding-collection-adapter) ★1238 - 轻松的使用Android Data Binding框架将数据绑定到listviews或recyclerviews :four_leaf_clover: 
 - [StickyHeaders](#StickyHeaders) ★1167 - 安卓RecyclerView的适配器和布局管理器 :four_leaf_clover:
 - [IndexRecyclerView](#IndexRecyclerView)★1148 - 使用Recyclerview实现的联系人列表 :four_leaf_clover: 
-- [Graywater](#Graywater)★1143 - 改进RecyclerView布局的库  :four_leaf_clover: 
+- [Graywater](https://github.com/tumblr/Graywater)★1143 - 改进RecyclerView布局的库  :four_leaf_clover: 
 - [RecyclerView-FastScroll](#RecyclerView-FastScroll)★1073 - 简单的FastScroller :four_leaf_clover: 
 - [WaveSideBar](#WaveSideBar)★1032 - 快速跳跃分组的侧边栏控件  :four_leaf_clover: 
 - [SwipeRevealLayout](#SwipeRevealLayout) ★984 - 通过swipe及slide显示另一个布局 :four_leaf_clover: 
@@ -295,16 +295,11 @@
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
  
-## binding-collection-adapter
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/evant/binding-collection-adapter)
- 
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
- 
 ## StickyHeaders
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/ShamylZakariya/StickyHeaders)
 >_效果图如下：_
 
-<img src="https://github.com/ShamylZakariya/StickyHeaders/tree/master/readme-assets/video-addressbook.gif" width="200"><img src="https://github.com/ShamylZakariya/StickyHeaders/tree/master/readme-assets/video-callbacks" width="200">
+<img src="https://github.com/ShamylZakariya/StickyHeaders/blob/master/readme-assets/video-addressbook.gif" width="200"><img src="https://github.com/ShamylZakariya/StickyHeaders/blob/master/readme-assets/video-callbacks.gif" width="200">
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
@@ -314,11 +309,6 @@
 
 <img src="https://github.com/jiang111/IndexRecyclerView/blob/master/art/art.gif" width="200"><img src="https://github.com/jiang111/IndexRecyclerView/blob/master/art/head.gif" width="200">
 
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-
-## Graywater
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/tumblr/Graywater) 
- 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
 ## RecyclerView-FastScroll
