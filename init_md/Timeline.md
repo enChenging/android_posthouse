@@ -15,7 +15,7 @@
 - [android-material-stepper](#android-material-stepper)★1564 - 在Android应用中使用MD步进 :four_leaf_clover: 
 - [stepper-indicator](#stepper-indicator)★1373 - 引导步骤指示器  :four_leaf_clover: 
 - [TimelineView](#TimelineView)★996 - 在应用程序添加时间轴的安卓视图 :four_leaf_clover: 
-- [Steppers](#Steppers)★792 - Android步骤视图库 :four_leaf_clover: 
+- [Steppers](https://github.com/drozdzynski/Steppers)★792 - Android步骤视图库 :four_leaf_clover: 
 - [BreadcrumbsView](#BreadcrumbsView)★671 - 显示给定序列的当前步骤 :four_leaf_clover: 
 - [TimelineView_](#TimelineView_) ★489 - Android自定义时间线视图 :four_leaf_clover: 
 - [UnderLineLinearLayout](#UnderLineLinearLayout) ★406 - 一个简单的时间轴实现 :four_leaf_clover: 
@@ -60,11 +60,6 @@
 >_效果图如下：_
 
 <img src="https://github.com/alorma/TimelineView/blob/master/screenshot.png" width="200">
- 
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
- 
-## Steppers
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/drozdzynski/Steppers) 
  
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
  
