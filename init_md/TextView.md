@@ -16,16 +16,16 @@
 - [ExpandableTextView](#ExpandableTextView)★3492 - 展开/折叠TextView :four_leaf_clover: 
 - [MarqueeView](#MarqueeView) ★2992 - 垂直翻页公告 :four_leaf_clover: 
 - [RichText](#RichText)★2938 - Android富文本解析器 :four_leaf_clover: 
-- [SuperTextView](#SuperTextView) ★2878 - 功能强大的TextView :four_leaf_clover: 
+- [SuperTextView](https://github.com/lygttpod/SuperTextView) ★2878 - 功能强大的TextView :four_leaf_clover: 
 - [SuperTextView_](#SuperTextView_) ★2351 - 提高构建项目的效率 TextView :four_leaf_clover: 
 - [MarqueeViewDemo](#MarqueeViewDemo)★2016 - 跑马灯View :four_leaf_clover: 
-- [html-textview](#html-textview)★1896 - 扩展的安卓TextView组件 :four_leaf_clover: 
+- [html-textview](https://github.com/SufficientlySecure/html-textview)★1896 - 扩展的安卓TextView组件 :four_leaf_clover: 
 - [TextJustify-Android](#TextJustify-Android) ★1803 - 文本处理库 :four_leaf_clover: 
 - [FadingTextView](#FadingTextView) ★1458 - 自动改变其内容的TextView :four_leaf_clover: 
 - [Android-TextView-LinkBuilder](#Android-TextView-LinkBuilder) ★1418 - 创建可点击的链接 :four_leaf_clover: 
 - [RotatingText](#RotatingText)★1346 - 周期性文本更新库 :four_leaf_clover: 
 - [TokenAutoComplete](#TokenAutoComplete)★1191 - 安卓Gmail风格的TokenAutoCompleteTextView :four_leaf_clover: 
-- [TextLayoutBuilder](#TextLayoutBuilder)★1316 - Facebook出品的在Android中轻松实现文字布局 :four_leaf_clover: 
+- [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder)★1316 - Facebook出品的在Android中轻松实现文字布局 :four_leaf_clover: 
 - [AutoLinkTextView](#AutoLinkTextView)★1077 - 自动检测并处理点击事件  :four_leaf_clover: 
 - [AutoFitTextView](#AutoFitTextView)★808 - 自动适应字体和行计数的TextView  :four_leaf_clover: 
 - [NumberAnimTextView](#NumberAnimTextView)★618 - 数字增加动画的 TextView :four_leaf_clover: 
@@ -98,11 +98,6 @@
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
-## SuperTextView
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/lygttpod/SuperTextView)
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-
 ## SuperTextView_
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/chenBingX/SuperTextView)
 >_效果图如下：_
@@ -115,11 +110,6 @@
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/gongwen/MarqueeViewDemo) 
  
  <img src="https://github.com/gongwen/MarqueeViewLibrary/blob/master/screenshot/screen_shot.gif" width="200">
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-
-## html-textview
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/SufficientlySecure/html-textview) 
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
@@ -156,11 +146,6 @@
 <img src="https://github.com/mdg-iitr/RotatingText/blob/master/screens/gif_cover.gif" width="200"><img src="https://github.com/mdg-iitr/RotatingText/blob/master/screens/gif_example_1.gif" width="200">
 
 <img src="https://github.com/mdg-iitr/RotatingText/blob/master/screens/gif_example_2.gif" width="200"><img src="https://github.com/mdg-iitr/RotatingText/blob/master/screens/gif_example_3.gif" width="200">
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
- 
-## TextLayoutBuilder
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/facebookincubator/TextLayoutBuilder) 
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
   
