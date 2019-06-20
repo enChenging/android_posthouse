@@ -13,7 +13,7 @@
 - [MaterialTextField](#MaterialTextField)★1401 - 与众不同的漂亮的浮动可编辑文本框:four_leaf_clover: 
 - [AndroidFormEditText](#AndroidFormEditText)★1390 - 为edittext带来数据有效性工具 :four_leaf_clover: 
 - [BufferTextInputLayout](#BufferTextInputLayout) ★984 - 简单的TextImputLayout定制化服务  :four_leaf_clover: 
-- [BiuEditText](#BiuEditText)★669 - 一个有趣的EditText :four_leaf_clover: 
+- [BiuEditText](https://github.com/xujinyang/BiuEditText)★669 - 一个有趣的EditText :four_leaf_clover: 
 
 
 
@@ -50,8 +50,4 @@
 <img src="https://github.com/bufferapp/BufferTextInputLayout/blob/master/art/hidden.gif" width="200"><img src="https://github.com/bufferapp/BufferTextInputLayout/blob/master/art/standard.gif" width="200">
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-## BiuEditText
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/xujinyang/BiuEditText) 
 
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
