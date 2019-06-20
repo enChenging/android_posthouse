@@ -8,26 +8,17 @@
 :sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
-- [ijkplayer](#ijkplayer)★23656 - 基于ffmpeg n3.4的Android/iOS视频播放器，支持Mediacodec和视频工具箱。 :four_leaf_clover:
-- [ExoPlayer](#ExoPlayer)★13287 - ExoPlayer 是 Google 开发团队开源出来的一个媒体播放库， 比 Android 框架原生的 MediaPlayer拥有更多优点支持动态的自适应流 HTTP (DASH) 和平滑流， 支持高级的 HLS 特性， 支持自定义和扩治你的使用场景等等 :four_leaf_clover:
+- [ijkplayer](https://github.com/bilibili/ijkplayer)★23656 - 基于ffmpeg n3.4的Android/iOS视频播放器，支持Mediacodec和视频工具箱。 :four_leaf_clover:
+- [ExoPlayer](https://github.com/google/ExoPlayer)★13287 - ExoPlayer 是 Google 开发团队开源出来的一个媒体播放库， 比 Android 框架原生的 MediaPlayer拥有更多优点支持动态的自适应流 HTTP (DASH) 和平滑流， 支持高级的 HLS 特性， 支持自定义和扩治你的使用场景等等 :four_leaf_clover:
 - [GSYVideoPlayer](#GSYVideoPlayer)★10440 - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，其他一些小动画效果，rtsp、concat、mpeg :four_leaf_clover:
 - [JiaoZiVideoPlayer](#JiaoZiVideoPlayer)★9219 - 度自定义的开源安卓视频框架 :four_leaf_clover:
-- [PLDroidPlayer](#PLDroidPlayer)★3891 - PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。 :four_leaf_clover:
+- [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)★3891 - PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。 :four_leaf_clover:
 - [VideoPlayerManager](#VideoPlayerManager)★2814 - 帮助控制MediaPlayer类的项目。可以方便的在ListView和RecyclerView中使用MediaPlayer。它还能跟踪滚动列表当前可视范围最大的item，并提供回调的api :four_leaf_clover:
 - [dkplayer](#dkplayer)★1357 - 基于IjkPlayer的视频播放器，支持直播点播，悬浮窗播放，广告播放，边播边缓存；支持重力感应自动全屏；完美实现ListView和RecyclerView列表播放；支持清晰度切换；支持一行代码切换MediaPlayer和ExoPlayer :four_leaf_clover:
 
 
 
 
-## ijkplayer
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/bilibili/ijkplayer) 
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
- 
-## ExoPlayer
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/google/ExoPlayer) 
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
  
 ## GSYVideoPlayer
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/CarGuo/GSYVideoPlayer) 
@@ -47,10 +38,6 @@
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
  
-## PLDroidPlayer
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/pili-engineering/PLDroidPlayer) 
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
 ## VideoPlayerManager
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/danylovolokh/VideoPlayerManager) 
