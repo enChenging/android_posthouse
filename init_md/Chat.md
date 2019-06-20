@@ -12,7 +12,7 @@
 - [aurora-imui](#aurora-imui)★4541 - 通用的即时通讯UI 库 :four_leaf_clover: 
 - [LQRWeChat](#LQRWeChat)★2818 - 简化UI开发  :four_leaf_clover: 
 - [ChatKit](#ChatKit)★2744 - 简化UI开发  :four_leaf_clover: 
-- [socket_io-android-chat](#socket_io-android-chat) ★1576 - socket.io和android的简单聊天演示  :four_leaf_clover: 
+- [socket_io-android-chat](https://github.com/nkzawa/socket.io-android-chat) ★1576 - socket.io和android的简单聊天演示  :four_leaf_clover: 
 - [BigBang](#BigBang)★972 - 仿了Smartisan OS 的 BigBang 功能 :four_leaf_clover: 
 - [ChatMessageView](#ChatMessageView)★635 - 快速创建聊天信息视图  :four_leaf_clover: 
 - [ChatMessageView_](#ChatMessageView_)★476 - Android聊天UI视图  :four_leaf_clover: 
@@ -45,11 +45,7 @@
 <img src="https://github.com/stfalcon-studio/ChatKit/blob/master/images/CHAT_CUSTOM_ATTRS_STYLE.png" width="200"><img src="https://github.com/stfalcon-studio/ChatKit/blob/master/images/CHAT_CUSTOM_CONTENT_TYPE.png" width="200"><img src="https://github.com/stfalcon-studio/ChatKit/blob/master/images/CHAT_CUSTOM_HOLDER.png" width="200">
  
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-## socket_io-android-chat
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/nkzawa/socket.io-android-chat)
  
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
 ## BigBang
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/baoyongzhang/BigBang) 
