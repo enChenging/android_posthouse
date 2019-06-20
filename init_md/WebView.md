@@ -15,7 +15,7 @@
 - [AndroidChromium](#AndroidChromium)  ★2435 - 谷歌浏览器安卓版源码项目 :four_leaf_clover: 
 - [FinestWebView-Android](#FinestWebView-Android) ★2055 - 可自定义webview :four_leaf_clover: 
 - [AgentWeb](#AgentWeb) ★5633 - 一个高度封装的 WebView :four_leaf_clover: 
-- [DSBridge-Android](#[DSBridge-Android) ★1505 - 目前地球上最好的IOS及Android javascript bridge :four_leaf_clover: 
+- [DSBridge-Android](https://github.com/wendux/DSBridge-Android) ★1505 - 目前地球上最好的IOS及Android javascript bridge :four_leaf_clover: 
 - [MarkdownView](#MarkdownView)  ★951 - Android的Markdown :four_leaf_clover: 
 - [MarkdownView_](#MarkdownView_)  ★901 - 显示Markdown文本的Android库 :four_leaf_clover: 
 - [SortRichEditor](#SortRichEditor) ★311 - 图文混合编辑的富文本编辑器 :four_leaf_clover: 
@@ -53,11 +53,6 @@
 >_效果图如下：_
 
 <img src="https://github.com/Justson/AgentWeb/blob/master/img/jd.png" width="200"><img src="https://github.com/Justson/AgentWeb/blob/master/img/js.png" width="200">
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-## DSBridge-Android
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/wendux/DSBridge-Android) 
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
