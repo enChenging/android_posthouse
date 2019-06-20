@@ -11,8 +11,8 @@
 - [glide](#glide)★26249 - 媒体管理和图片加载框架 :four_leaf_clover: 
 - [picasso](#picasso)★16816 安卓图片缓存库 :four_leaf_clover: 
 - [Android-Universal-Image-Loader](#Android-Universal-Image-Loader)★16506 异步图像加载程序 :four_leaf_clover: 
-- [fresco](#fresco) ★15675 在Android应用中显示图片 :four_leaf_clover: 
-- [PhotoView](#PhotoView)★15433 简单可用的放大安卓ImageView实现 :four_leaf_clover: 
+- [fresco](https://github.com/facebook/fresco) ★15675 在Android应用中显示图片 :four_leaf_clover: 
+- [PhotoView](https://github.com/chrisbanes/PhotoView)★15433 简单可用的放大安卓ImageView实现 :four_leaf_clover: 
 - [CircleImageView](#CircleImageView)★11919 圆形介绍头像  :four_leaf_clover: 
 - [Matisse](#Matisse) ★9640 Android本地图像选择器 :four_leaf_clover: 
 - [uCrop](#uCrop)★8779 极限且灵活的图像裁剪体验 :four_leaf_clover: 
@@ -31,7 +31,7 @@
 - [KenBurnsView](#KenBurnsView) ★2436- 身临其境的动画拖拽 :four_leaf_clover: 
 - [RxGalleryFinal](#RxGalleryFinal)★2386- android图片/视频文件选择器 :four_leaf_clover: 
 - [PhotoView](#PhotoView)★2283- 图片浏览缩放控件 :four_leaf_clover: 
-- [Tiny](#Tiny) ★2238- 图像压缩框架 :four_leaf_clover: 
+- [Tiny](https://github.com/Sunzxyong/Tiny) ★2238- 图像压缩框架 :four_leaf_clover: 
 - [AndroidPhotoFilters](#AndroidPhotoFilters)★2214 快速强大灵活的图片处理器 :four_leaf_clover: 
 - [SimpleCropView](#SimpleCropView)★2182- Android图片裁剪库 :four_leaf_clover: 
 - [ShadowImageView](#ShadowImageView)★2152 更加细腻的阴影效果  four_leaf_clover: 
@@ -50,7 +50,7 @@
 - [DragPhotoView](#DragPhotoView) ★1479 - 高仿微信可拖拽返回PhotoView :four_leaf_clover: 
 - [CircularImageView](#CircularImageView)★1412以最简单的方式在Android中创建圆形ImageView :four_leaf_clover: 
 - [ImageEditor-Android](#ImageEditor-Android)★1399- 编辑图片 :four_leaf_clover: 
-- [EasyImage](#EasyImage)★1361- 从gallery，相机或者文件中获取图片  :four_leaf_clover: 
+- [EasyImage](https://github.com/jkwiecien/EasyImage)★1361- 从gallery，相机或者文件中获取图片  :four_leaf_clover: 
 - [StyleImageView](#StyleImageView)★1334- 图片相关视图的风格添加及亮度对比度设置 :four_leaf_clover: 
 - [NineGridImageView](#NineGridImageView)★1303 仿微信朋友圈或微博的九宫格图片 :four_leaf_clover: 
 - [BlurImageView](#BlurImageView)★1290 - 模糊加载图像 :four_leaf_clover: 
@@ -89,16 +89,6 @@
 >_效果图如下：_
 
 <img src="https://github.com/square/picasso/blob/master/website/static/sample.png" width="500">
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-## fresco
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/facebook/fresco)
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-
-## PhotoView
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/chrisbanes/PhotoView) 
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
@@ -258,12 +248,6 @@
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
-## Tiny
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/Sunzxyong/Tiny)
->_效果图如下：_
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-
 ## AndroidPhotoFilters
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/Zomato/AndroidPhotoFilters) 
 >_效果图如下：_
@@ -419,11 +403,6 @@
 <img src="https://github.com/siwangqishiq/ImageEditor-Android/blob/master/screens/gif4.gif" width="200"><img src="https://github.com/siwangqishiq/ImageEditor-Android/blob/master/screens/gif5.gif" width="200"><img src="https://github.com/siwangqishiq/ImageEditor-Android/blob/master/screens/gif6.gif" width="200">
 
 <img src="https://github.com/siwangqishiq/ImageEditor-Android/blob/master/screens/gif7.gif" width="200"><img src="https://github.com/siwangqishiq/ImageEditor-Android/blob/master/screens/gif8_redo_undo.gif" width="200">
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-
-## EasyImage
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/jkwiecien/EasyImage) 
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
