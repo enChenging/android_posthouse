@@ -9,17 +9,13 @@
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
 
-- [AmazeFileManager](#AmazeFileManager)★2541 - 好用的文件管理源代码 :four_leaf_clover: 
+- [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager)★2541 - 好用的文件管理源代码 :four_leaf_clover: 
 - [android-upload-service](#android-upload-service)★2044 - 轻松实现后台上传文件 :four_leaf_clover: 
 - [Android-FilePicker](#Android-FilePicker)★1832 - 灵活选择图片和视频的文件选择器 :four_leaf_clover: 
 - [MaterialFilePicker](#MaterialFilePicker)★903 - MD风格文件选择器库 :four_leaf_clover: 
 - [NoNonsense-FilePicke](#NoNonsense-FilePicke)★666 - 文件选择器库 :four_leaf_clover: 
 
 
-## AmazeFileManager
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/arpitkh96/AmazeFileManager) 
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
 ## android-upload-service
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/gotev/android-upload-service) 
