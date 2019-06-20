@@ -8,7 +8,8 @@
 :sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
  
-- [BaseRecyclerViewAdapterHelper](#BaseRecyclerViewAdapterHelper)★17387 - 强大灵活的RecyclerAdapter :four_leaf_clover: 
+- [BaseRecyclerViewAdapterHelper](#BaseRecyclerViewAdapterHelper)★17387 - 强大灵活的
+- RecyclerAdapter :four_leaf_clover: 
 - [AndroidSwipeLayout](#AndroidSwipeLayout) ★11235 - 安卓滑动出现子菜单 :four_leaf_clover: 
 - [vlayout](#vlayout) ★9537 - 布局方案和布局间的组件复用 :four_leaf_clover: 
 - [UltimateRecyclerView](#UltimateRecyclerView)★7027 - 功能强大的Recyclerview :four_leaf_clover:
@@ -60,7 +61,7 @@
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 
 >_效果图如下：_
 
-<img src="https://github.com/enChenging/android_posthouse/blob/master/RecycleView01.gif" width="200">
+<img src="https://github.com/enChenging/android_posthouse/blob/master/init_md/RecycleView01.gif" width="200">
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 

@@ -98,7 +98,7 @@
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/worker8/TourGuide) 
 >_效果图如下：_
 
-<img src="https://github.com/enChenging/android_posthouse/blob/master/Splash01.png" width="200">
+<img src="https://github.com/enChenging/android_posthouse/blob/master/init_md/Splash01.png" width="200">
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
