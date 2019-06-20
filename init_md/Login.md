@@ -13,7 +13,7 @@
 - [hover](#hover) ★2502 - Android浮动菜单实现 :four_leaf_clover: 
 - [MaterialChipsInput](#MaterialChipsInput)★2463 - MD风格chip组件的实现 :four_leaf_clover: 
 - [MaterialLogin](#MaterialLogin)★1922 - MD风格的登录效果 :four_leaf_clover: 
-- [GridPasswordView](#GridPasswordView) ★1608 - Android密码视图 :four_leaf_clover: 
+- [GridPasswordView](https://github.com/Jungerr/GridPasswordView) ★1608 - Android密码视图 :four_leaf_clover: 
 - [AwesomeValidation](#AwesomeValidation)★993 - 实现对Android的验证 :four_leaf_clover: 
 - [material-code-input](#material-code-input)★894 - MD样式的编码输入 :four_leaf_clover: 
 - [AndroidKeyboardWatcher](#AndroidKeyboardWatcher)★848 - Android可开闭输入键盘 :four_leaf_clover: 
@@ -57,11 +57,6 @@
 >_效果图如下：_
 
 <img src="https://github.com/fanrunqi/MaterialLogin/blob/master/screenshots/a.gif" width="200">
- 
- <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-## GridPasswordView
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/Jungerr/GridPasswordView)
  
  <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
   
