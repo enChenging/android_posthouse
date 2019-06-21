@@ -10,7 +10,7 @@
 
 
 
-- [MaterialDialogs](#MaterialDialogs) ★15964 - 安卓Material风格对话框 :four_leaf_clover: 
+- [material-dialogs](#MaterialDialogs) ★15994 - 安卓Material风格对话框 :four_leaf_clover: 
 - [sweet-alert-dialog](#sweet-alert-dialog)★6586 - 一个漂亮而巧妙的对话框 :four_leaf_clover: 
 - [dialogplus](#dialogplus)★4481 - 对话框动画 :four_leaf_clover: 
 - [Alerter](#Alerter) ★4389 - android提示库 :four_leaf_clover: 
@@ -28,7 +28,7 @@
 - [LemonHello4Android](#LemonHello4Android)★223 - 内置多种主题提示框 :four_leaf_clover: 
 
 
-## MaterialDialogs
+## material-dialogs
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/afollestad/material-dialogs)
 >_效果图如下：_
 
