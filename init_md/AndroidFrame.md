@@ -21,7 +21,6 @@
 - [gson](https://github.com/google/gson) ★15842  - Java序列化/反序列化库将Java对象转换成JSON :four_leaf_clover:
 - [tinker](https://github.com/Tencent/tinker) ★13817  - 针对Android的热修复解决方案库 :four_leaf_clover:
 - [dagger](https://github.com/google/dagger) ★13705  - 用于Android和Java的快速依赖注入器 :four_leaf_clover:
-- [stetho](https://github.com/facebook/stetho) ★11174  - Facebook 出品的一个强大的 Android 调试工具:four_leaf_clover:
 - [ARouter](https://github.com/alibaba/ARouter) ★10000  - 帮助 Android App 进行组件化改造的路由框架 :four_leaf_clover:
 - [androidannotations](https://github.com/androidannotations/androidannotations) ★10804  - 快速 Android 开发的开源框架 :four_leaf_clover:
 - [RxBinding](https://github.com/JakeWharton/RxBinding) ★8834  - 用于Android用户界面小部件的RxJava绑定API :four_leaf_clover:
