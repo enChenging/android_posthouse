@@ -13,6 +13,7 @@
 - [AndroidUtilCode](#AndroidUtilCode) ★23689 - android工具集合 :four_leaf_clover: 
 - [leakcanary](#leakcanary) ★22971 - Android的内存泄漏检测库 :four_leaf_clover: 
 - [logger](#logger) ★11285 - 简单、漂亮、功能强大的Android日志 :four_leaf_clover: 
+- [stetho](https://github.com/facebook/stetho) ★11174  - Facebook 出品的一个强大的 Android 调试工具:four_leaf_clover:
 - [QMUI_Android](https://github.com/Tencent/QMUI_Android) ★8264 - 提高 Android UI 开发效率的 UI 库 :four_leaf_clover: 
 - [AndroidAutoSize](#AndroidAutoSize) ★7359 - 今日头条屏幕适配方案终极版 :four_leaf_clover: 
 - [hugo](https://github.com/JakeWharton/hugo) ★6821 - JakeWharton 推出的打印 Log, 在方法上加上 @DebugLog 即可输出 Log :four_leaf_clover: 
