@@ -17,6 +17,7 @@
 - [android-adDialog](#android-adDialog) ★2897 - 简单强大的广告活动弹窗控件 :four_leaf_clover: 
 - [NiftyDialogEffects](#NiftyDialogEffects)★2460 - Nifty模式对话框效果 :four_leaf_clover: 
 - [Android-AlertView](#Android-AlertView)★1335 - 仿iOS的AlertViewController :four_leaf_clover: 
+- [KProgressHUD](#KProgressHUD)★1323 -适用于Android的ProgressHUD的实现 :four_leaf_clover: 
 - [BottomDialog](#BottomDialog)★1170 - 底部弹窗布局 :four_leaf_clover: 
 - [CustomPopwindow](#CustomPopwindow)★1089 - PopupWindow 的常用API封装 :four_leaf_clover:
 - [MaterialStyledDialogs](#MaterialStyledDialogs)★1057 - 显示优美可定制的Android对话框 :four_leaf_clover:
@@ -92,6 +93,14 @@
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
+## KProgressHUD
+[:point_right: :globe_with_meridians: :point_left:](https://github.com/Kaopiz/KProgressHUD) 
+>_效果图如下：_
+  
+<img src="https://raw.githubusercontent.com/Kaopiz/KProgressHUD/master/demo/screenshots/screencast.gif" width="200">
+ 
+<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
+ 
 ## BottomDialog
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/shaohui10086/BottomDialog) 
 >_效果图如下：_
