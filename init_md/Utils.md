@@ -23,6 +23,7 @@
 - [android-common](#android-common) ★4895 - 是 Trinea 大神收集的一些开发通用的缓存， 公共 View 以及一些常用工具类 :four_leaf_clover: 
 - [android-iconify](#android-iconify) ★3790 - 多个图标供应商的图标整合 :four_leaf_clover: 
 - [material-icon-lib](https://github.com/code-mc/material-icon-lib) ★2212 - 2000个MD风格矢量图标 :four_leaf_clover:
+- [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar) ★1344 -基于SharedPreferences的OkHttp3的持久CookieJar实现:four_leaf_clover: 
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) ★492 -笑脸:four_leaf_clover: 
 - [MixPush](https://github.com/taoweiji/MixPush) ★360 - Android融合推送MixPush集成多家推送平台，共享系统级推送，杀死APP也能收到推送 :four_leaf_clover: 
 - [cardocr](#cardocr) ★123 - Android腾讯优图OCR云平台识别身份证、银行卡、行驶证、驾驶证，依赖包小 :four_leaf_clover: 
