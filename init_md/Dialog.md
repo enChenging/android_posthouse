@@ -26,6 +26,7 @@
 - [SwipeAwayDialog](#SwipeAwayDialog)★817 - 实现滑动取消对话框  :four_leaf_clover: 
 - [BubbleLayout](#BubbleLayout)★786 - 气泡文字框 :four_leaf_clover: 
 - [BubbleView](#BubbleView) ★769 - 带箭头的Android气泡控件/容器类 :four_leaf_clover: 
+- [LicensesDialog](#LicensesDialog)★728 - 显示第三方库的许可证 :four_leaf_clover: 
 - [LemonHello4Android](#LemonHello4Android)★223 - 内置多种主题提示框 :four_leaf_clover: 
 
 
@@ -164,6 +165,14 @@
 <img src="https://github.com/cpiz/BubbleView/blob/master/screenshots/5.gif" width="200">
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
+
+## LicensesDialog
+[:point_right: :globe_with_meridians: :point_left:](https://github.com/PSDev/LicensesDialog) 
+>_效果图如下：_
+
+<img src="https://github.com/PSDev/LicensesDialog/blob/master/screenshot.png" width="200">
+
+<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1
 
 ## LemonHello4Android
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/1em0nsOft/LemonHello4Android) 
