@@ -12,5 +12,6 @@
 - [greenDAO](https://github.com/greenrobot/greenDAO)★11390 - Greendao是一个轻快的Android ORM解决方案，它将对象映射到sqlite数据库  :four_leaf_clover: 
 - [realm-java](https://github.com/realm/realm-java)★10512 - Realm 一个轻量的 Android 版本的数据存储库， 比 Android 原生系统的 SQLite 更加简洁快速对数据进行操作  :four_leaf_clover: 
 - [LitePal](https://github.com/LitePalFramework/LitePal)★6356 - 一个Android库，使开发人员非常容易使用sqlite数据库  :four_leaf_clover: 
+- [objectbox-java](https://github.com/objectbox/objectbox-java)★3163 - 用于对象的超快速轻量级数据库  :four_leaf_clover: 
 - [ormlite-android](https://github.com/j256/ormlite-android)★1451 - 与ormlite-core结合使用的Ormlite  :four_leaf_clover: 
 - [android-lite-orm](https://github.com/litesuits/android-lite-orm)★1406 - Android高性能数据库框架  :four_leaf_clover: 
