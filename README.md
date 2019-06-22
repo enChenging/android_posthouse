@@ -18,7 +18,7 @@
 - [6----------------------------------------------Button(按钮)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Button.md) :four_leaf_clover:
 - [7----------------------------------------------Menu(菜单、浮动菜单)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Menu.md) :four_leaf_clover:
 - [8----------------------------------------------Dialog、popWindow(弹窗)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Dialog.md):four_leaf_clover:
-- [9----------------------------------------------ImageView(图片)](https://github.com/enChenging/android_posthouse/blob/master/init_md/ImageView.md):four_leaf_clover:
+- [9----------------------------------------------ImageView--GiF(图片、GiF)](https://github.com/enChenging/android_posthouse/blob/master/init_md/ImageView.md):four_leaf_clover:
 - [10---------------------------------------------Splash--Guide(启动页、引导页)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Splash.md):four_leaf_clover:
 - [11---------------------------------------------TextView](https://github.com/enChenging/android_posthouse/blob/master/init_md/TextView.md):four_leaf_clover:
 - [12---------------------------------------------EditText](https://github.com/enChenging/android_posthouse/blob/master/init_md/EditText.md):four_leaf_clover:
