@@ -13,7 +13,7 @@
 - [1----------------------------------------------RecycleView(各种类型列表)](https://github.com/enChenging/android_posthouse/blob/master/init_md/RecycleView.md) :four_leaf_clover:
 - [2----------------------------------------------Refresh(下拉刷新)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Refresh.md) :four_leaf_clover:
 - [3----------------------------------------------TabLayout、Indicator](https://github.com/enChenging/android_posthouse/blob/master/init_md/TabLayout.md) :four_leaf_clover:
-- [4----------------------------------------------ProgressBar(进度条)](https://github.com/enChenging/android_posthouse/blob/master/init_md/ProgressBar.md) :four_leaf_clover:
+- [4----------------------------------------------ProgressBar(进度条、加载视图)](https://github.com/enChenging/android_posthouse/blob/master/init_md/ProgressBar.md) :four_leaf_clover:
 - [5----------------------------------------------ViewPager](https://github.com/enChenging/android_posthouse/blob/master/init_md/ViewPager.md) :four_leaf_clover:
 - [6----------------------------------------------Button(按钮)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Button.md) :four_leaf_clover:
 - [7----------------------------------------------Menu(菜单、浮动菜单)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Menu.md) :four_leaf_clover:
