@@ -62,7 +62,7 @@
 - [1----------------------------------------------FileOperation(文件操作)](https://github.com/enChenging/android_posthouse/blob/master/init_md/FileOperation.md) :four_leaf_clover:
 - [2----------------------------------------------Utils(工具)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Utils.md) :four_leaf_clover:
 - [3----------------------------------------------Surfing-the-Internet(网上冲浪)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Surfing-the-Internet.md) :four_leaf_clover:
-- [4----------------------------------------------cross-platform(跨平台)](https://github.com/enChenging/android_posthouse/blob/master/init_md/cross-platform.md) :four_leaf_clover:
+- [4----------------------------------------------cross-platform(跨平台)](https://github.com/enChenging/android_posthouse/blob/master/init_md/CrossPlatform.md) :four_leaf_clover:
 
 # 目录-框架
 - [1----------------------------------------------AndroidFrame(框架)](https://github.com/enChenging/android_posthouse/blob/master/init_md/AndroidFrame.md) :four_leaf_clover:
