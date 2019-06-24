@@ -14,7 +14,7 @@
 - [vlayout](#vlayout) ★9543 - 布局方案和布局间的组件复用:four_leaf_clover: 
 - [AndroidSlidingUpPanel](#AndroidSlidingUpPanel)★8521 - 通过向上拖动添加额外面板 :four_leaf_clover: 
 - [AndroidAutoLayout](#AndroidAutoLayout) ★6634 - Android屏幕适配方案:four_leaf_clover: 
-- [FlowLayout](#FlowLayout)★4984 - Android流式布局 :four_leaf_clover: 
+- [FlowLayout](#FlowLayout)★5000 - 流式布局，支持单选、多选等，适合用于产品标签等 :four_leaf_clover: 
 - [DiagonalLayout](#DiagonalLayout)★2476 - MD风格的新的样式和方法 :four_leaf_clover: 
 - [ZLayoutManager](#ZLayoutManager)★2126 - 一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等 :four_leaf_clover: 
 - [FanLayoutManager](#FanLayoutManager)★1898 - 扇形水平列表视图 :four_leaf_clover: 
