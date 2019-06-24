@@ -26,6 +26,7 @@
 - [RadarChartView](#RadarChartView)★479 - 渲染径向图的Android视图 :four_leaf_clover: 
 - [LockTableView](#LockTableView) ★355 - Android自定义表格 :four_leaf_clover: 
 - [RadarChart](#RadarChart)★321 - 支持自由定制外观、手势旋转的雷达图表 :four_leaf_clover: 
+- [UI](#UI)★69 - 折现图、图形图，扇形图，渐变图等常用报表ui，代码简单 :four_leaf_clover: 
 
 
 ## MPAndroidChart
@@ -163,5 +164,13 @@
 >_效果图如下：_
 
 <img src="https://github.com/qstumn/RadarChart/blob/master/demo.gif" width="200">
+
+<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
+  
+## UI
+[:point_right: :globe_with_meridians: :point_left:](https://github.com/qstumn/RadarChart) 
+>_效果图如下：_
+
+<img src="https://github.com/supertaohaili/UI/blob/master/TIM%E5%9B%BE%E7%89%8720180115113215.jpg" width="200">
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
