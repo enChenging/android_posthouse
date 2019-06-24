@@ -27,6 +27,7 @@
 - [MetaballLoading](#MetaballLoading)★1522 - 一个2d圆球加载  :four_leaf_clover:
 - [WaveView](#WaveView) ★1421 - 显示波浪效果的视图 :four_leaf_clover:
 - [WaveLoading](#WaveLoading)★1393 - 能够提供波浪动画的Drawable :four_leaf_clover: 
+- [MultipleStatusView](#MultipleStatusView)★1346 - 加载中视图、错误视图、空数据视图、网络异常视图、内容视图 :four_leaf_clover: 
 - [mkloader](#mkloader)★1332 - 优美又流畅的自定义加载视图 :four_leaf_clover: 
 - [KProgressHUD](#KProgressHUD)★1318 - 安卓ProgressHUD实现  :four_leaf_clover: 
 - [WaveView_](#WaveView_)★1233 - Android波浪视图  :four_leaf_clover: 
@@ -222,6 +223,14 @@ alt="Circular Reveal" width="320" height="240" border="10" /></a>
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
+## MultipleStatusView
+[:point_right: :globe_with_meridians: :point_left:](https://github.com/qyxxjd/MultipleStatusView) 
+>_效果图如下：_
+
+<img src="https://github.com/qyxxjd/MultipleStatusView/blob/master/screenshots/demo.gif" width="200">
+
+<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
+ 
 ## mkloader
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/nntuyen/mkloader) 
 >_效果图如下：_
