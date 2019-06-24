@@ -11,6 +11,7 @@
 
 
 - [Android-PickerView](#Android-PickerView)★10066 - 精仿iOS的PickerView控件  :four_leaf_clover: 
+- [Matisse](#Matisse) ★9676 - 为Android设计的本地图像和视频选择器  :four_leaf_clover: 
 - [AndroidPicker](#AndroidPicker) ★4598 - 安卓选择器类库  :four_leaf_clover: 
 - [ImagePicker](#ImagePicker)★3743 - 完全仿微信的图片选择 :four_leaf_clover: 
 - [android-betterpickers](#android-betterpickers)★2716 - 选择器DialogFragments库 :four_leaf_clover: 
@@ -49,6 +50,14 @@
 <img src="https://github.com/Bigkoo/Android-PickerView/blob/master/preview/pickerdemo1x.gif" width="200"><img src="https://github.com/Bigkoo/Android-PickerView/blob/master/preview/pickerdemo_zhangshangshenghuo.gif" width="200">
 
 <img src="https://github.com/Bigkoo/Android-PickerView/blob/master/preview/timepicker.gif" width="200">
+
+<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
+ 
+# Matisse
+[:point_right: :globe_with_meridians: :point_left:](https://github.com/zhihu/Matisse) 
+>_效果图如下：_
+
+<img src="https://github.com/zhihu/Matisse/blob/master/image/screenshot_zhihu.png" width="200"><img src="https://github.com/zhihu/Matisse/blob/master/image/screenshot_dracula.png" width="200"><img src="https://github.com/zhihu/Matisse/blob/master/image/screenshot_preview.png" width="200">
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
   
