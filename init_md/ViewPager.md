@@ -9,6 +9,7 @@
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
 - [MaterialViewPager](#MaterialViewPager) ★7982 - 安卓选项卡插件  :four_leaf_clover: 
+- [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)★5437 - banner上viewpager各种动画 :four_leaf_clover: 
 - [InfiniteCycleViewPager](#InfiniteCycleViewPager)★5352 - 无限循环的视图页 :four_leaf_clover: 
 - [UltraViewPager](#UltraViewPager) ★4534 - 封装多种特性的ViewPager :four_leaf_clover: 
 - [PageIndicatorView](#PageIndicatorView)★3810 - 能够指示选定页的ViewPage :four_leaf_clover: 
