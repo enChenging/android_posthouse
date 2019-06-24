@@ -10,8 +10,6 @@
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
   
   
-
-- [JsBridge](#JsBridge) ★6531 - Android的Java和JavaScript桥接 :four_leaf_clover: 
 - [AgentWeb](#AgentWeb) ★5829 - 一个高度封装的 WebView :four_leaf_clover: 
 - [AndroidChromium](#AndroidChromium)  ★2435 - 谷歌浏览器安卓版源码项目 :four_leaf_clover: 
 - [FinestWebView-Android](#FinestWebView-Android) ★2055 - 可自定义webview :four_leaf_clover: 
@@ -22,13 +20,6 @@
 - [CodeView](#CodeView) ★181 - Android 代码高亮 :four_leaf_clover: 
 
 
-## JsBridge
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/lzyzsd/JsBridge) 
->_效果图如下：_
-
-<img src="https://github.com/lzyzsd/JsBridge/blob/master/JsBridge.gif" width="300">
-
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
   
 ## AndroidChromium
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/JackyAndroid/AndroidChromium)
