@@ -18,7 +18,7 @@
 - [DiagonalLayout](#DiagonalLayout)★2476 - MD风格的新的样式和方法 :four_leaf_clover: 
 - [ZLayoutManager](#ZLayoutManager)★2126 - 一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等 :four_leaf_clover: 
 - [FanLayoutManager](#FanLayoutManager)★1898 - 扇形水平列表视图 :four_leaf_clover: 
-- [FlowLayout](#FlowLayout)★1889 - 让子视图自动浮动到下一行 :four_leaf_clover: 
+- [FlowLayout_](#FlowLayout_)★1889 - 让子视图自动浮动到下一行 :four_leaf_clover: 
 - [smooth-app-bar-layout](#smooth-app-bar-layout)★1762 - 视图布局 :four_leaf_clover: 
 - [SlideUp-Android](https://github.com/mancj/SlideUp-Android) ★1605 - 对任何视图添加边侧效果 :four_leaf_clover: 
 - [ExpandableLayout](#ExpandableLayout)★1556 - 带有各种动画的扩展布局 :four_leaf_clover: 
@@ -108,7 +108,7 @@
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1> 
  
-## FlowLayout
+## FlowLayout_
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/nex3z/FlowLayout) 
 >_效果图如下：_
 
