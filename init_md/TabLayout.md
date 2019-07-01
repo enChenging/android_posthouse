@@ -18,6 +18,7 @@
 - [AndroidRubberIndicator](#AndroidRubberIndicator) ★1530 - ViewPager的rubber指示器:four_leaf_clover: 
 - [SpaceTabLayout](#SpaceTabLayout) ★1455 - RelativeLayout的自定义实现方式 :four_leaf_clover: 
 - [RecyclerTabLayout](#RecyclerTabLayout) ★1222 - 高效TabLayout库 :four_leaf_clover: 
+- [VerticalTabLayout](#VerticalTabLayout) ★805 - 垂直纵向的TabLayout、轻松创建纵向导航 :four_leaf_clover: 
 - [MusicIndicator](#MusicIndicator) ★453 - Music indicator :four_leaf_clover: 
 - [ChangeTabLayout](#ChangeTabLayout) ★324 - 模仿乐视LIVEApp主界面TabLayout效果 :four_leaf_clover: 
 - [EasyIndicator](#EasyIndicator)★84 - 简单的tab指示器 :four_leaf_clover: 
@@ -106,6 +107,14 @@
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
+## VerticalTabLayout
+[:point_right: :globe_with_meridians: :point_left:](https://github.com/qstumn/VerticalTabLayout) 
+>_效果图如下：_
+
+<img src="https://raw.githubusercontent.com/qstumn/VerticalTabLayout/master/demo_gif.gif" width="200">
+
+<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
+ 
 ## MusicIndicator
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/Taishi-Y/MusicIndicator) 
 >_效果图如下：_
