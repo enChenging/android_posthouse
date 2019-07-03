@@ -12,7 +12,7 @@
   
 - [lottie-android](#lottie-android)★25768 - 闪光效果插件 :four_leaf_clover: 
 - [Material-Animations](#Material-Animations)★12815 - Material-Animations 是一个很好过渡动画库， 可以应用于 Activity 与 Activity 之间的跳转， Fragment 与 Fragment 之间的跳转， 以及各个 View 变化前后的过渡动画 :four_leaf_clover: 
-- [AndroidViewAnimations](#AndroidViewAnimations)★10662 - 闪光效果插件 :four_leaf_clover: 
+- [AndroidViewAnimations](#AndroidViewAnimations)★10662 - 可爱的动画收藏 :four_leaf_clover: 
 - [Shimmer](#Shimmer)★8958 - 闪光效果插件 :four_leaf_clover: 
 - [rebound](https://github.com/facebook/rebound)★5332 - ebound 是 Facebook 推出的一个弹性动画库， 可以让动画看起来真实自然， 像真实世界的物理运动， 带有力的效果 :four_leaf_clover: 
 - [ShimmerLayout](#ShimmerLayout)★1969 - 高效的闪光效果 :four_leaf_clover: 
