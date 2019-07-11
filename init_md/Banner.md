@@ -12,7 +12,7 @@
  
 - [banner](#banner)★8436 - Android广告图片轮播控件 :four_leaf_clover: 
 - [Android-ConvenientBanner](#Android-ConvenientBanner)★4334 - 通用的广告栏控件 :four_leaf_clover: 
-- [BGABanner-Android](#GABanner-Android)★3418 - 引导界面滑动导航 :four_leaf_clover: 
+- [BGABanner-Android](#BGABanner-Android)★3418 - 引导界面滑动导航 :four_leaf_clover: 
 - [MZBannerView](#MZBannerView)★1929 - 仿魅族BannerView :four_leaf_clover: 
 - [AndroidPileLayout](#AndroidPileLayout) ★1877 - 堆叠滑动控件 :four_leaf_clover: 
 - [XBanner](#XBanner)★906 - 自定义图片无限轮播的控件 :four_leaf_clover: 
