@@ -10,7 +10,7 @@
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
  
  
-- [banner](#banner)★8436 - Android广告图片轮播控件 :four_leaf_clover: 
+- [banner](https://github.com/youth5201314/banner)★8659 - Android广告图片轮播控件 :four_leaf_clover: 
 - [Android-ConvenientBanner](#Android-ConvenientBanner)★4334 - 通用的广告栏控件 :four_leaf_clover: 
 - [BGABanner-Android](#BGABanner-Android)★3418 - 引导界面滑动导航 :four_leaf_clover: 
 - [MZBannerView](#MZBannerView)★1929 - 仿魅族BannerView :four_leaf_clover: 
@@ -22,11 +22,7 @@
 - [AndroidCarrouselLayout](#AndroidCarrouselLayout) ★242 - 安卓轮播框布局 :four_leaf_clover: 
 
 
-  
-## banner
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/youth5201314/banner) 
 
-<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
 ## Android-ConvenientBanner
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) 
