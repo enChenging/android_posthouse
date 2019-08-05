@@ -15,6 +15,7 @@
 - [AndroidViewAnimations](#AndroidViewAnimations)★10662 - 可爱的动画收藏 :four_leaf_clover: 
 - [Shimmer](#Shimmer)★8958 - 闪光效果插件 :four_leaf_clover: 
 - [rebound](https://github.com/facebook/rebound)★5332 - ebound 是 Facebook 推出的一个弹性动画库， 可以让动画看起来真实自然， 像真实世界的物理运动， 带有力的效果 :four_leaf_clover: 
+- [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)★4491 - Android库，用于在所有版本的平台上使用Honeycomb动画API返回1.0！ :four_leaf_clover: 
 - [ShimmerLayout](#ShimmerLayout)★1969 - 高效的闪光效果 :four_leaf_clover: 
 - [FanLayoutManager](#FanLayoutManager)★1905 - 各种LayoutManager特效 :four_leaf_clover: 
 - [TextPathView](#TextPathView)★1806 - 带有文本路径动画的视图 :four_leaf_clover: 
