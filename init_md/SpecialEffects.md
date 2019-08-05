@@ -16,6 +16,7 @@
 - [Shimmer](#Shimmer)★8958 - 闪光效果插件 :four_leaf_clover: 
 - [rebound](https://github.com/facebook/rebound)★5332 - ebound 是 Facebook 推出的一个弹性动画库， 可以让动画看起来真实自然， 像真实世界的物理运动， 带有力的效果 :four_leaf_clover: 
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)★4491 - Android库，用于在所有版本的平台上使用Honeycomb动画API返回1.0！ :four_leaf_clover: 
+- [android-flip](#android-flip)★2785 - 高效的闪光效果 :four_leaf_clover: 
 - [ShimmerLayout](#ShimmerLayout)★1969 - 高效的闪光效果 :four_leaf_clover: 
 - [FanLayoutManager](#FanLayoutManager)★1905 - 各种LayoutManager特效 :four_leaf_clover: 
 - [TextPathView](#TextPathView)★1806 - 带有文本路径动画的视图 :four_leaf_clover: 
@@ -98,6 +99,13 @@
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
  
+## android-flip
+[:point_right: :globe_with_meridians: :point_left:](https://github.com/openaphid/android-flip) 
+>_效果图如下：_
+
+<img src="https://camo.githubusercontent.com/d20ac6fb1cb14db4b69ab5e48ebd609aab1f6831/687474703a2f2f6f70656e61706869642e6769746875622e636f6d2f696d616765732f666c6970766965772d686f72697a6f6e74616c2d64656d6f2e676966" width="200"><img src="https://camo.githubusercontent.com/c260bd35546a4fa2a7a556bec851294a26639345/687474703a2f2f6f70656e61706869642e6769746875622e636f6d2f696d616765732f666c6970766965772d64656d6f2e676966" width="200">
+
+<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
   
 ## ShimmerLayout
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/team-supercharge/ShimmerLayout) 
