@@ -13,8 +13,9 @@
 - [vlayout](#vlayout) ★9537 - 布局方案和布局间的组件复用 :four_leaf_clover: 
 - [UltimateRecyclerView](#UltimateRecyclerView)★7027 - 功能强大的Recyclerview :four_leaf_clover:
 - [recyclerview-animators](#recyclerview-animators)★9240 - 一个Android动画库，可以轻松地将itemAnimator添加到RecyclerView项中 :four_leaf_clover:
-- [XRecyclerView](#XRecyclerView) ★4874 - 下拉刷新和加载更多 :four_leaf_clover: 
+- [ListViewAnimations](#ListViewAnimations)★5708 - 一个Android库，允许开发人员轻松地向ListView项目添加动画 :four_leaf_clover:
 - [epoxy](#epoxy)★5549 - Airbnb安卓视图架构 :four_leaf_clover:
+- [XRecyclerView](#XRecyclerView) ★4874 - 下拉刷新和加载更多 :four_leaf_clover: 
 - [DiscreteScrollView](#DiscreteScrollView) ★4657 - 基于RecyclerView的滚动列表实现 :four_leaf_clover: 
 - [android-advancedrecyclerview](#android-advancedrecyclerview)★4546 - 提供高级特性的RecyclerView扩展 :four_leaf_clover: 
 - [baseAdapter](#baseAdapter) ★4320 - Android 万能的Adapter:four_leaf_clover: 
@@ -110,6 +111,14 @@
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
+## ListViewAnimations
+[:point_right: :globe_with_meridians: :point_left:](https://github.com/airbnb/epoxy) 
+>_效果图如下：_
+
+<img src="https://github.com/airbnb/epoxy/blob/master/epoxy-sample/sample_touch.gif" width="200">
+
+<HR style="https://raw.githubusercontent.com/nhaarman/ListViewAnimations/gh-pages/images/dynamiclistview.gif" width="100%" color=#987cb9 SIZE=1>
+ 
 ## epoxy
 [:point_right: :globe_with_meridians: :point_left:](https://github.com/airbnb/epoxy) 
 >_效果图如下：_
