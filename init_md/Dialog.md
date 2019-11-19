@@ -14,6 +14,7 @@
 - [sweet-alert-dialog](#sweet-alert-dialog)★6586 - 一个漂亮而巧妙的对话框 :four_leaf_clover: 
 - [dialogplus](#dialogplus)★4481 - 对话框动画 :four_leaf_clover: 
 - [Alerter](#Alerter) ★4389 - android提示库 :four_leaf_clover: 
+- [XPopup](#XPopup) ★3600 - 功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow等 :four_leaf_clover: 
 - [android-adDialog](#android-adDialog) ★2897 - 简单强大的广告活动弹窗控件 :four_leaf_clover: 
 - [NiftyDialogEffects](#NiftyDialogEffects)★2460 - Nifty模式对话框效果 :four_leaf_clover: 
 - [Android-AlertView](#Android-AlertView)★1335 - 仿iOS的AlertViewController :four_leaf_clover: 
@@ -63,6 +64,16 @@
 <img src="https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_swipe_to_dismiss.gif" width="200"><img src="https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_text_only.gif" width="200"><img src="https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_verbose.gif" width="200">
 
 <img src="https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_icon.gif" width="200"><img src="https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_on_click.gif" width="200"><img src="https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_progress_bar.gif" width="200">
+
+<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
+ 
+ ## XPopup
+[:point_right: :globe_with_meridians: :point_left:](https://github.com/li-xiaojun/XPopup) 
+>_效果图如下：_
+
+<img src="https://github.com/li-xiaojun/XPopup/blob/master/screenshot/preview.gif" width="200"><img src="https://github.com/li-xiaojun/XPopup/blob/master/screenshot/preview_bottom.gif" width="200">
+
+<img src="https://github.com/li-xiaojun/XPopup/blob/master/screenshot/preview_attach.gif" width="200"><img src="https://github.com/li-xiaojun/XPopup/blob/master/screenshot/preview_drawer.gif" width="200">
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
