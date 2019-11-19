@@ -9,52 +9,52 @@
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
  
 - [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)★17387 - 强大灵活的 RecyclerAdapter :four_leaf_clover:[:movie_camera:](#BaseRecyclerViewAdapterHelper)
-- [AndroidSwipeLayout](#AndroidSwipeLayout) ★11235 - 安卓滑动出现子菜单 :four_leaf_clover: 
-- [vlayout](#vlayout) ★9537 - 布局方案和布局间的组件复用 :four_leaf_clover: 
-- [UltimateRecyclerView](#UltimateRecyclerView)★7027 - 功能强大的Recyclerview :four_leaf_clover:
-- [recyclerview-animators](#recyclerview-animators)★9240 - 一个Android动画库，可以轻松地将itemAnimator添加到RecyclerView项中 :four_leaf_clover:
-- [ListViewAnimations](#ListViewAnimations)★5708 - 一个Android库，允许开发人员轻松地向ListView项目添加动画 :four_leaf_clover:
-- [epoxy](#epoxy)★5549 - Airbnb安卓视图架构 :four_leaf_clover:
-- [XRecyclerView](#XRecyclerView) ★4874 - 下拉刷新和加载更多 :four_leaf_clover: 
-- [DiscreteScrollView](#DiscreteScrollView) ★4657 - 基于RecyclerView的滚动列表实现 :four_leaf_clover: 
-- [android-advancedrecyclerview](#android-advancedrecyclerview)★4546 - 提供高级特性的RecyclerView扩展 :four_leaf_clover: 
-- [baseAdapter](#baseAdapter) ★4320 - Android 万能的Adapter:four_leaf_clover: 
-- [MultiType](#MultiType)★4212 - 快速清晰的开发复杂列表页面 :four_leaf_clover: 
-- [SwipeRecyclerView](#SwipeRecyclerView)★4072 - RecyclerView侧滑菜单:four_leaf_clover: 
-- [RecyclerViewPager](#RecyclerViewPager) ★3387 - 基于RecyclerView的ViewPager替代品  :four_leaf_clover:
-- [ShimmerRecyclerView](#ShimmerRecyclerView) ★3029 - 展现视图加载中的视图  :four_leaf_clover: 
-- [SwipeDelMenuLayout](#SwipeDelMenuLayout) ★2811 - 仿IOS侧滑Item删除菜单 :four_leaf_clover:
-- [StickyHeaderListView](#StickyHeaderListView) ★2696 - 基于实际需求做出的灵活可定制的UI功能 :four_leaf_clover:
-- [FastAdapter](#FastAdapter) ★2634 - 简化RecyclerView配置过程 :four_leaf_clover:
-- [AndroidTreeView](#AndroidTreeView) ★2556 - 安卓的目录视图 :four_leaf_clover: 
-- [ZoomHeader](#ZoomHeader) ★2421 - 模仿饿了么详情页的例子 :four_leaf_clover: 
-- [RecyclerViewCardGallery](#RecyclerViewCardGallery) ★2382 - RecyclerView实现Card Gallery效果 :four_leaf_clover: 
-- [LRecyclerView](#LRecyclerView)★2256 - 多功能RecyclerView :four_leaf_clover: 
-- [groupie](#groupie)★2190 - 显示并管理复杂的RecyclerView布局 :four_leaf_clover: 
-- [overscroll-decor](#overscroll-decor) ★2101 - Android的仿iOS滚动效果 :four_leaf_clover:
-- [PlaceHolderView](#PlaceHolderView)★1884 - 高级列表和堆栈视图 :four_leaf_clover: :four_leaf_clover: 
-- [AsymmetricGridView](#AsymmetricGridView)★1656 - Android自定义列表视图 :four_leaf_clover: 
-- [drag-select-recyclerview](#drag-select-recyclerview) ★1558 - 实现GooglePhoto样式多选择 :four_leaf_clover: 
-- [SwipeStack](#SwipeStack) ★1425 - 安卓纸质视图栈 :four_leaf_clover: 
-- [binding-collection-adapter](https://github.com/evant/binding-collection-adapter) ★1238 - 轻松的使用Android Data Binding框架将数据绑定到listviews或recyclerviews :four_leaf_clover: 
-- [StickyHeaders](#StickyHeaders) ★1167 - 安卓RecyclerView的适配器和布局管理器 :four_leaf_clover:
-- [IndexRecyclerView](#IndexRecyclerView)★1148 - 使用Recyclerview实现的联系人列表 :four_leaf_clover: 
-- [Graywater](https://github.com/tumblr/Graywater)★1143 - 改进RecyclerView布局的库  :four_leaf_clover: 
-- [RecyclerView-FastScroll](#RecyclerView-FastScroll)★1073 - 简单的FastScroller :four_leaf_clover: 
-- [WaveSideBar](#WaveSideBar)★1032 - 快速跳跃分组的侧边栏控件  :four_leaf_clover: 
-- [SwipeRevealLayout](#SwipeRevealLayout) ★984 - 通过swipe及slide显示另一个布局 :four_leaf_clover: 
-- [SimpleRecyclerView](#SimpleRecyclerView)★955 - 轻松创建列表的RecyclerView扩展 :four_leaf_clover:
-- [RecyclerViewEnhanced](#RecyclerViewEnhanced)★903 - 条目滑动点击安卓库 :four_leaf_clover: 
-- [AndroidExpandingViewLibrary](#AndroidExpandingViewLibrary)★783 - 创建:four_leaf_clover: 
-- [CircleRecyclerView](#CircleRecyclerView) ★611 - 一个循环RecyclerView  :four_leaf_clover:
-- [StickyItemDecoration](#StickyItemDecoration) ★518 - 强大的RecyclerView粘性头部   :four_leaf_clover:
-- [RecyclerTreeView](#RecyclerTreeView) ★408 - 安卓的TreeView实现 :four_leaf_clover: 
-- [EasyTransition](#EasyTransition)★361 - 一个轻量级的共享元素迁移库 :four_leaf_clover: 
-- [TreeView](#TreeView)★346 - 树形结构组件 :four_leaf_clover: 
-- [RecyclerStickyHeaderView](#RecyclerStickyHeaderView)★338 - RecyclerView的悬浮视图 :four_leaf_clover: 
-- [SwipeCardRecyclerView](#SwipeCardRecyclerView)★328 - 炫酷滑动卡片 :four_leaf_clover:
-- [ClassifyView](#ClassifyView)★185 - 拖拽合并的RecyclerView  :four_leaf_clover: 
-- [SpringRecyclerView](#SpringRecyclerView)★113 - 具有弹簧效果的RecyclerView :four_leaf_clover: 
+- [AndroidSwipeLayout](#AndroidSwipeLayout) ★11235 - 安卓滑动出现子菜单 :four_leaf_clover: [:movie_camera:](#AndroidSwipeLayout)
+- [vlayout](#vlayout) ★9537 - 布局方案和布局间的组件复用 :four_leaf_clover: [:movie_camera:](#vlayout)
+- [UltimateRecyclerView](#UltimateRecyclerView)★7027 - 功能强大的Recyclerview :four_leaf_clover:[:movie_camera:](#UltimateRecyclerView)
+- [recyclerview-animators](#recyclerview-animators)★9240 - 一个Android动画库，可以轻松地将itemAnimator添加到RecyclerView项中 :four_leaf_clover:[:movie_camera:](#recyclerview-animators)
+- [ListViewAnimations](#ListViewAnimations)★5708 - 一个Android库，允许开发人员轻松地向ListView项目添加动画 :four_leaf_clover:[:movie_camera:](#ListViewAnimations)
+- [epoxy](#epoxy)★5549 - Airbnb安卓视图架构 :four_leaf_clover:[:movie_camera:](#epoxy)
+- [XRecyclerView](#XRecyclerView) ★4874 - 下拉刷新和加载更多 :four_leaf_clover: [:movie_camera:](#XRecyclerView)
+- [DiscreteScrollView](#DiscreteScrollView) ★4657 - 基于RecyclerView的滚动列表实现 :four_leaf_clover: [:movie_camera:](#DiscreteScrollView)
+- [android-advancedrecyclerview](#android-advancedrecyclerview)★4546 - 提供高级特性的RecyclerView扩展 :four_leaf_clover: [:movie_camera:](#android-advancedrecyclerview)
+- [baseAdapter](#baseAdapter) ★4320 - Android 万能的Adapter:four_leaf_clover: [:movie_camera:](#baseAdapter)
+- [MultiType](#MultiType)★4212 - 快速清晰的开发复杂列表页面 :four_leaf_clover: [:movie_camera:](#MultiType)
+- [SwipeRecyclerView](#SwipeRecyclerView)★4072 - RecyclerView侧滑菜单:four_leaf_clover: [:movie_camera:](#SwipeRecyclerView)
+- [RecyclerViewPager](#RecyclerViewPager) ★3387 - 基于RecyclerView的ViewPager替代品  :four_leaf_clover:[:movie_camera:](#RecyclerViewPager)
+- [ShimmerRecyclerView](#ShimmerRecyclerView) ★3029 - 展现视图加载中的视图  :four_leaf_clover: [:movie_camera:](#ShimmerRecyclerView)
+- [SwipeDelMenuLayout](#SwipeDelMenuLayout) ★2811 - 仿IOS侧滑Item删除菜单 :four_leaf_clover:[:movie_camera:](#SwipeDelMenuLayout)
+- [StickyHeaderListView](#StickyHeaderListView) ★2696 - 基于实际需求做出的灵活可定制的UI功能 :four_leaf_clover:[:movie_camera:](#StickyHeaderListView)
+- [FastAdapter](#FastAdapter) ★2634 - 简化RecyclerView配置过程 :four_leaf_clover:[:movie_camera:](#FastAdapter)
+- [AndroidTreeView](#AndroidTreeView) ★2556 - 安卓的目录视图 :four_leaf_clover: [:movie_camera:](#AndroidTreeView)
+- [ZoomHeader](#ZoomHeader) ★2421 - 模仿饿了么详情页的例子 :four_leaf_clover: [:movie_camera:](#ZoomHeader)
+- [RecyclerViewCardGallery](#RecyclerViewCardGallery) ★2382 - RecyclerView实现Card Gallery效果 :four_leaf_clover: [:movie_camera:](#RecyclerViewCardGallery)
+- [LRecyclerView](#LRecyclerView)★2256 - 多功能RecyclerView :four_leaf_clover: [:movie_camera:](#LRecyclerView)
+- [groupie](#groupie)★2190 - 显示并管理复杂的RecyclerView布局 :four_leaf_clover: [:movie_camera:](#groupie)
+- [overscroll-decor](#overscroll-decor) ★2101 - Android的仿iOS滚动效果 :four_leaf_clover:[:movie_camera:](#overscroll-decor)
+- [PlaceHolderView](#PlaceHolderView)★1884 - 高级列表和堆栈视图 :four_leaf_clover: :four_leaf_clover:[:movie_camera:](#PlaceHolderView) 
+- [AsymmetricGridView](#AsymmetricGridView)★1656 - Android自定义列表视图 :four_leaf_clover: [:movie_camera:](#AsymmetricGridView)
+- [drag-select-recyclerview](#drag-select-recyclerview) ★1558 - 实现GooglePhoto样式多选择 :four_leaf_clover: [:movie_camera:](#drag-select-recyclerview)
+- [SwipeStack](#SwipeStack) ★1425 - 安卓纸质视图栈 :four_leaf_clover: [:movie_camera:](#SwipeStack)
+- [binding-collection-adapter](https://github.com/evant/binding-collection-adapter) ★1238 - 轻松的使用Android Data Binding框架将数据绑定到listviews或recyclerviews :four_leaf_clover:
+- [StickyHeaders](#StickyHeaders) ★1167 - 安卓RecyclerView的适配器和布局管理器 :four_leaf_clover:[:movie_camera:](#StickyHeaders)
+- [IndexRecyclerView](#IndexRecyclerView)★1148 - 使用Recyclerview实现的联系人列表 :four_leaf_clover: [:movie_camera:](#IndexRecyclerView)
+- [Graywater](https://github.com/tumblr/Graywater)★1143 - 改进RecyclerView布局的库  :four_leaf_clover:
+- [RecyclerView-FastScroll](#RecyclerView-FastScroll)★1073 - 简单的FastScroller :four_leaf_clover: [:movie_camera:](#RecyclerView-FastScroll)
+- [WaveSideBar](#WaveSideBar)★1032 - 快速跳跃分组的侧边栏控件  :four_leaf_clover: [:movie_camera:](#WaveSideBar)
+- [SwipeRevealLayout](#SwipeRevealLayout) ★984 - 通过swipe及slide显示另一个布局 :four_leaf_clover: [:movie_camera:](#SwipeRevealLayout)
+- [SimpleRecyclerView](#SimpleRecyclerView)★955 - 轻松创建列表的RecyclerView扩展 :four_leaf_clover:[:movie_camera:](#SimpleRecyclerView)
+- [RecyclerViewEnhanced](#RecyclerViewEnhanced)★903 - 条目滑动点击安卓库 :four_leaf_clover: [:movie_camera:](#RecyclerViewEnhanced)
+- [AndroidExpandingViewLibrary](#AndroidExpandingViewLibrary)★783 - 创建:four_leaf_clover: [:movie_camera:](#AndroidExpandingViewLibrary)
+- [CircleRecyclerView](#CircleRecyclerView) ★611 - 一个循环RecyclerView  :four_leaf_clover:[:movie_camera:](#CircleRecyclerView)
+- [StickyItemDecoration](#StickyItemDecoration) ★518 - 强大的RecyclerView粘性头部   :four_leaf_clover:[:movie_camera:](#StickyItemDecoration)
+- [RecyclerTreeView](#RecyclerTreeView) ★408 - 安卓的TreeView实现 :four_leaf_clover: [:movie_camera:](#RecyclerTreeView)
+- [EasyTransition](#EasyTransition)★361 - 一个轻量级的共享元素迁移库 :four_leaf_clover: [:movie_camera:](#EasyTransition)
+- [TreeView](#TreeView)★346 - 树形结构组件 :four_leaf_clover: [:movie_camera:](#TreeView)
+- [RecyclerStickyHeaderView](#RecyclerStickyHeaderView)★338 - RecyclerView的悬浮视图 :four_leaf_clover: [:movie_camera:](#RecyclerStickyHeaderView)
+- [SwipeCardRecyclerView](#SwipeCardRecyclerView)★328 - 炫酷滑动卡片 :four_leaf_clover:[:movie_camera:](#SwipeCardRecyclerView)
+- [ClassifyView](#ClassifyView)★185 - 拖拽合并的RecyclerView  :four_leaf_clover: [:movie_camera:](#ClassifyView)
+- [SpringRecyclerView](#SpringRecyclerView)★113 - 具有弹簧效果的RecyclerView :four_leaf_clover: [:movie_camera:](#SpringRecyclerView)
 
 
 ## BaseRecyclerViewAdapterHelper
