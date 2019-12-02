@@ -28,7 +28,8 @@
 - [16---------------------------------------------Chart(图表)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Chart.md):four_leaf_clover:
 - [17---------------------------------------------WebView、Markdown](https://github.com/enChenging/android_posthouse/blob/master/init_md/WebView.md):four_leaf_clover:
 - [18---------------------------------------------Layout(布局)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Layout.md):four_leaf_clover:
-- [19---------------------------------------------Picker(选择器)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Picker.md):four_leaf_clover:
+- [19---------------------------------------------Picker(时间、地区、数字选择器)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Picker.md):four_leaf_clover:
+- [19---------------------------------------------PickerFile(图片、文件选择器)](https://github.com/enChenging/android_posthouse/blob/master/init_md/PickerFile.md):four_leaf_clover:
 - [20---------------------------------------------Calendar(日历时间)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Calendar.md):four_leaf_clover:
 - [21---------------------------------------------Card](https://github.com/enChenging/android_posthouse/blob/master/init_md/Card.md):four_leaf_clover:
 - [22---------------------------------------------Blur(模糊效果)](https://github.com/enChenging/android_posthouse/blob/master/init_md/Blur.md):four_leaf_clover:
