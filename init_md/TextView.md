@@ -16,16 +16,16 @@
 - [ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)★3492 - 展开/折叠TextView :four_leaf_clover:
 - [MarqueeView](https://github.com/sfsheng0322/MarqueeView) ★2992 - 垂直翻页公告 :four_leaf_clover:
 - [RichText](https://github.com/zzhoujay/RichText)★2938 - Android富文本解析器 :four_leaf_clover:
-- [SuperTextView](https://github.com/lygttpod/SuperTextView) ★2878 - 功能强大的TextView :four_leaf_clover: 
-- [SuperTextView](#https://github.com/chenBingX/SuperTextView) ★2351 - 提高构建项目的效率 TextView :four_leaf_clover:
+- [SuperTextView](https://github.com/lygttpod/SuperTextView) ★2878 - 功能强大的TextView :four_leaf_clover:
+- [SuperTextView](https://github.com/chenBingX/SuperTextView) ★2351 - 提高构建项目的效率 TextView :four_leaf_clover:
 - [MarqueeViewDemo](https://github.com/gongwen/MarqueeViewDemo)★2016 - 跑马灯View :four_leaf_clover:
-- [html-textview](https://github.com/SufficientlySecure/html-textview)★1896 - 扩展的安卓TextView组件 :four_leaf_clover: 
+- [html-textview](https://github.com/SufficientlySecure/html-textview)★1896 - 扩展的安卓TextView组件 :four_leaf_clover:
 - [TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android) ★1803 - 文本处理库 :four_leaf_clover:
 - [FadingTextView](https://github.com/rosenpin/FadingTextView) ★1458 - 自动改变其内容的TextView :four_leaf_clover:
 - [Android-TextView-LinkBuilder](https://github.com/klinker24/Android-TextView-LinkBuilder) ★1418 - 创建可点击的链接 :four_leaf_clover:
 - [RotatingText](https://github.com/sdsmdg/RotatingText)★1346 - 周期性文本更新库 :four_leaf_clover:
 - [TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)★1191 - 安卓Gmail风格的TokenAutoCompleteTextView :four_leaf_clover:
-- [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder)★1316 - Facebook出品的在Android中轻松实现文字布局 :four_leaf_clover: 
+- [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder)★1316 - Facebook出品的在Android中轻松实现文字布局 :four_leaf_clover:
 - [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView)★1077 - 自动检测并处理点击事件  :four_leaf_clover:
 - [AutoFitTextView](https://github.com/AndroidDeveloperLB/AutoFitTextView)★808 - 自动适应字体和行计数的TextView  :four_leaf_clover:
 - [NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)★618 - 数字增加动画的 TextView :four_leaf_clover:
@@ -36,4 +36,4 @@
 
 
 
-  
+
