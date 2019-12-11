@@ -2,40 +2,16 @@
 :point_right: [android驿站--目录](https://github.com/enChenging/android_posthouse) :point_left: 
 
 为方便使用android开源库，所以本人耗费大量时间进行整理。如果收录的项目有错误或者你知道有比较好的开源项目，可以通过[Issues](https://github.com/enChenging/android_posthouse/issues)反馈给我，我将尽快的更新到android驿站中，希望android驿站可以成为android开发者在开发过程中的实用工具。项目Star数和新增新项目会不断更新，你的点赞:+1:将是我不断更新的最大动力。
- 
+
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
+
 :sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
 
 
-- [PreviewSeekBar](#PreviewSeekBar)★2915 - 显示视频预览的SeekBar :four_leaf_clover: （1）
-- [BubbleSeekBar](#BubbleSeekBar)★2453 - 自定义SeekBar :four_leaf_clover: （2）
-- [RangeSeekBar](#RangeSeekBar) ★931 - 可双向范围选择的SeekBar :four_leaf_clover: （3）
+- [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar)★2915 - 显示视频预览的SeekBar :four_leaf_clover: 
+- [BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)★2453 - 自定义SeekBar :four_leaf_clover: 
+- [RangeSeekBar](https://github.com/Jay-Goo/RangeSeekBar) ★931 - 可双向范围选择的SeekBar :four_leaf_clover: 
 
 
-## PreviewSeekBar
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/rubensousa/PreviewSeekBar) 
->_效果图如下：_
-
-<img src="https://github.com/rubensousa/PreviewSeekBar/blob/master/screenshots/playmovies.gif" width="200"><img src="https://github.com/rubensousa/PreviewSeekBar/blob/master/screenshots/sample.gif" width="200">
- 
- <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-## BubbleSeekBar
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/woxingxiao/BubbleSeekBar) 
->_效果图如下：_
-
-<img src="https://github.com/woxingxiao/BubbleSeekBar/blob/master/screenshot/demo1.gif" width="200"><img src="https://github.com/woxingxiao/BubbleSeekBar/blob/master/screenshot/demo2.gif" width="200">
-
-<img src="https://github.com/woxingxiao/BubbleSeekBar/blob/master/screenshot/demo3.gif" width="200"><img src="https://github.com/woxingxiao/BubbleSeekBar/blob/master/screenshot/demo4.gif" width="200">
- 
- <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
-  
-## RangeSeekBar
-[:point_right: :globe_with_meridians: :point_left:](https://github.com/Jay-Goo/RangeSeekBar)
->_效果图如下：_
-
-<img src="https://github.com/Jay-Goo/RangeSeekBar/blob/master/Gif/2017-02-08%2019_27_55.gif" width="200"><img src="https://github.com/Jay-Goo/RangeSeekBar/blob/master/Gif/demo.gif" width="200"><img src="https://github.com/Jay-Goo/RangeSeekBar/blob/master/Gif/vertical_demo.gif" width="200">
- 
- <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="100%" color=#987cb9 SIZE=1>
+      
