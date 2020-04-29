@@ -23,6 +23,7 @@
 - [android-common](https://github.com/Trinea/android-common) ★4895 - 是 Trinea 大神收集的一些开发通用的缓存， 公共 View 以及一些常用工具类 :four_leaf_clover:
 - [android-iconify](https://github.com/JoanZapata/android-iconify) ★3790 - 多个图标供应商的图标整合 :four_leaf_clover:
 - [material-icon-lib](https://github.com/code-mc/material-icon-lib) ★2212 - 2000个MD风格矢量图标 :four_leaf_clover:
+- [dimens_sw](https://github.com/ladingwu/dimens_sw) ★1400 - Android UI适配方案 :four_leaf_clover:
 - [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar) ★1344 -基于SharedPreferences的OkHttp3的持久CookieJar实现:four_leaf_clover: 
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) ★492 -笑脸:four_leaf_clover: 
 - [MixPush](https://github.com/taoweiji/MixPush) ★360 - Android融合推送MixPush集成多家推送平台，共享系统级推送，杀死APP也能收到推送 :four_leaf_clover: 
