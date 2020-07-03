@@ -21,6 +21,7 @@
 - [APIJSON](https://github.com/APIJSON/APIJSON) ★6204 - 后端接口和文档自动化，前端(客户端) 定制返回JSON的数据和结构！ :four_leaf_clover:
 - [acra](https://github.com/ACRA/acra) ★4953 - 是一个能够让 Android 应用自动将崩溃报告以谷歌文档电子表的形式进行发送的库 :four_leaf_clover: 
 - [android-common](https://github.com/Trinea/android-common) ★4895 - 是 Trinea 大神收集的一些开发通用的缓存， 公共 View 以及一些常用工具类 :four_leaf_clover:
+- [chuck](https://github.com/jgilfelt/chuck) ★4200 - 内部拦截并保留所有HTTP请求和响应 :four_leaf_clover:
 - [android-iconify](https://github.com/JoanZapata/android-iconify) ★3790 - 多个图标供应商的图标整合 :four_leaf_clover:
 - [material-icon-lib](https://github.com/code-mc/material-icon-lib) ★2212 - 2000个MD风格矢量图标 :four_leaf_clover:
 - [dimens_sw](https://github.com/ladingwu/dimens_sw) ★1400 - Android UI适配方案 :four_leaf_clover:
