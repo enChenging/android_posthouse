@@ -14,6 +14,7 @@
 - [android-edittext-validator](https://github.com/vekexasia/android-edittext-validator)★1390 - 为edittext带来数据有效性工具 :four_leaf_clover:
 - [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout) ★984 - 简单的TextImputLayout定制化服务  :four_leaf_clover:
 - [BiuEditText](https://github.com/xujinyang/BiuEditText)★669 - 一个有趣的EditText :four_leaf_clover: 
+- [RichEditorView](https://github.com/youlookwhat/RichEditorView)★49 -Android 基于WebView的富文本编辑器 - 仿简书编辑器t :four_leaf_clover: 
 
 
 
