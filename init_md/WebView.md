@@ -18,6 +18,7 @@
 - [MarkdownView](https://github.com/tiagohm/MarkdownView)  ★901 - 显示Markdown文本的Android库 :four_leaf_clover:
 - [SortRichEditor](https://github.com/Hitomis/SortRichEditor) ★311 - 图文混合编辑的富文本编辑器 :four_leaf_clover:
 - [CodeView](https://github.com/tiagohm/CodeView) ★181 - Android 代码高亮 :four_leaf_clover:
+- [CoolIndicator](https://github.com/Justson/CoolIndicator) ★85 - 一个炫酷的 WebView 进度条 :four_leaf_clover:
 
 
 
