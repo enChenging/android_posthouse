@@ -31,4 +31,5 @@
 - [xUtils3](https://github.com/wyouflf/xUtils3) ★5437  - 快速开发框架:four_leaf_clover:
 - [async-http-client](https://github.com/AsyncHttpClient/async-http-client) ★5024  - Android 异步请求库 :four_leaf_clover:
 - [AutoDispose](https://github.com/uber/AutoDispose) ★2305  - 自动绑定+RXJava 2流的处理 :four_leaf_clover:
+- [paho.mqtt.android](https://github.com/eclipse/paho.mqtt.android) ★2200  - Android中使用MQTT需要使用到Paho Android Service库 :four_leaf_clover:
 
